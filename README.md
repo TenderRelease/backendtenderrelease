@@ -95,7 +95,7 @@ await contract.tokenURI(tokenId)
 
 Apart from these we have three transfer funtions and a withdraw function as well which can used from hardhat console but they have not been added to node.js backend and frontend of the application but are kept for future uses.
 
-The live server has been deployed at [Cyclic](https://app.cyclic.sh/) from the git hub [repo](https://github.com/SD-IITKGP/starter-micro-api)
+The live server has been deployed at [Cyclic](https://app.cyclic.sh/) from the git hub [repo](https://github.com/SD-IITKGP/starter-micro-api), since to deploy on cyclic we need to add code to their forked repo.
 
 # [Link to backend](https://tenderrelease.cyclic.app)
 
