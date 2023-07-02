@@ -63,7 +63,7 @@ Hardhat commands to attach to the contract
 
 ``` Hardhat commands to attach to the contract
 const Contract = await ethers.getContractFactory("NoobsTender")
-const contract = await Contract.attach('contract address') #Our contract address is 0x87219d4b9A4d44b7660F6a198E2F5298e77E6CA2 which has been deployed on binance testnet
+const contract = await Contract.attach('contract address') #Our contract address is 0xb23A4FcdC0E4d65fE3ecdDa523d7cC733d2A29aF which has been deployed on binance testnet
 ```
 
 Hardhat commands to start tender in contract
