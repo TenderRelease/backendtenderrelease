@@ -85,6 +85,12 @@ To get Winner of Tender and Tender Id of current tender deployed in contract
 await contract.getTenderDetails()
 ```
 
+To get the uri of nft which was transferred to the company address after registration which is unique for every registration use the below command
+
+``` get the uri of nft
+await contract.tokenURI(tokenId)
+```
+
 Apart from these we have three transfer funtions and a withdraw function as well which can used from hardhat console but they have not been added to node.js backend and frontend of the application but are kept for future uses.
 
 The live server has been deployed at [Cyclic](https://app.cyclic.sh/) from the git hub [repo](https://github.com/SD-IITKGP/starter-micro-api)
