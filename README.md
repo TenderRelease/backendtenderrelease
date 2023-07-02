@@ -2,6 +2,8 @@
 
 This project contains the backend for the project Tender Release which is a decentralised web application for automating and adding transparency to the process of tender assigning to companies especially by governments to remove all the middlemans and reduce corruption in the process.
 
+### [Frontend Repo](https://github.com/TenderRelease/TenderRelease)
+
 Starting the server
 
 (The following parameters need to be added in .env file in scripts folder- API_URL, PRIVATE_KEY, REACT_URL, NOOBSWALLET, CHAIN, ABI, CONTRACTADDRESS, MONGO_PASSWORD, GAS, SECRET. Also outside scripts folder also API_URL and PRIVATE_KEY need to added in a separate .env file)
