@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TenderRelease/backend.git"
+    "url": "git+https://github.com/TenderRelease/backendtenderrelease.git"
   },
   "keywords": [
     "Domain",
@@ -18,9 +18,9 @@
   "author": "SD-IITKGP",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TenderRelease/backend/issues"
+    "url": "https://github.com/TenderRelease/backendtenderrelease/issues"
   },
-  "homepage": "https://github.com/TenderRelease/backend#readme",
+  "homepage": "https://github.com/TenderRelease/backendtenderrelease#readme",
   "dependencies": {
     "@nomiclabs/hardhat-waffle": "^2.0.5",
     "@openzeppelin/contracts": "^4.8.3",

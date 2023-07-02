@@ -87,4 +87,8 @@ await contract.getTenderDetails()
 
 Apart from these we have three transfer funtions and a withdraw function as well which can used from hardhat console but they have not been added to node.js backend and frontend of the application but are kept for future uses.
 
+The live server has been deployed at [Cyclic](https://app.cyclic.sh/) from the git hub [repo](https://github.com/SD-IITKGP/starter-micro-api)
+
+# [Link to backend](https://tenderrelease.cyclic.app)
+
 Made with ❤️ by Team Noobs - [Sourabh Choudhary](https://github.com/SD-IITKGP), [Mahim Jain](https://github.com/jainmahim) and [Abhishek Sarjaliya](https://github.com/Abhi21sar)
