@@ -122,7 +122,7 @@ contract NoobsTender is Ownable,ERC721, ERC721URIStorage {
     // string memory uri = string(abi.encodePacked(domainHash));
     uint256 tokenId2 = _tokenIdCounter.current()+1;
     _tokenIdCounter.increment();
-    safeMint(companyOwner,string.concat("https://sourabhchoudhary.live/tenderDetails/", Strings.toString(tokenId2)), tokenId2);
+    safeMint(companyOwner,string.concat("https://https://tenderrelease.cyclic.app/tenderDetails/", Strings.toString(tokenId2)), tokenId2);
     tokenToHash[tokenId2] = companyHash; 
     CompanyDetails memory newCompany = CompanyDetails({
       companyName: company,
