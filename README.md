@@ -99,4 +99,4 @@ The live server has been deployed at [Cyclic](https://app.cyclic.sh/) from the g
 
 # [Link to backend](https://tenderrelease.cyclic.app)
 
-Made with ❤️ by Team Noobs - [Sourabh Choudhary](https://github.com/SD-IITKGP), [Mahim Jain](https://github.com/jainmahim) and [Abhishek Sarjaliya](https://github.com/Abhi21sar)
+Made with ❤️ by Team Noobs
